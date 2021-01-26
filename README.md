@@ -1,2 +1,2 @@
 # hello-world
-my first repo
+Hi people. this is my first experimental session with GitHub.
